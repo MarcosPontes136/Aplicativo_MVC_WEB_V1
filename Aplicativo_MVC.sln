@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back_Office", "Back_Office\Back_Office.csproj", "{AD03EE83-BA71-46AE-8EE4-49722B2E9021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tela_Web", "Tela_Web\Tela_Web.csproj", "{61C21272-2FE1-429A-B073-881550F4C2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD03EE83-BA71-46AE-8EE4-49722B2E9021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD03EE83-BA71-46AE-8EE4-49722B2E9021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD03EE83-BA71-46AE-8EE4-49722B2E9021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD03EE83-BA71-46AE-8EE4-49722B2E9021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C21272-2FE1-429A-B073-881550F4C2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C21272-2FE1-429A-B073-881550F4C2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C21272-2FE1-429A-B073-881550F4C2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C21272-2FE1-429A-B073-881550F4C2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22636C2E-CDE7-4643-BF4A-3FEED25CD6BE}
+	EndGlobalSection
+EndGlobal
